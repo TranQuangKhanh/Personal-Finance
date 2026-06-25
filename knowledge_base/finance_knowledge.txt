@@ -1,0 +1,144 @@
+# Personal Finance Knowledge Base
+# Used by RAG engine to retrieve relevant financial advice
+
+
+SECTION 1: CASH FLOW MANAGEMENT
+
+
+A positive cash flow means your monthly income exceeds your total expenses, allowing you to save, invest, or pay down debt. A negative cash flow means you are spending more than you earn, which leads to increasing debt over time.
+
+To improve negative cash flow:
+- Identify and eliminate non-essential subscriptions and discretionary spending
+- Negotiate lower rates on recurring bills such as insurance or phone plans
+- Increase income through freelance work, part-time jobs, or selling unused assets
+- Prioritize essential spending (rent, food, utilities) and reduce discretionary spending first
+- Set a monthly budget and track every transaction to identify spending leaks
+
+A neutral cash flow means income and expenses are roughly equal. While not immediately dangerous, it leaves no room for emergency savings or investment and should be improved.
+
+
+SECTION 2: DEBT MANAGEMENT
+
+
+Debt-to-income ratio (DTI) measures how much of your monthly income goes toward debt payments. A DTI above 0.40 (40%) is considered high risk by most lenders and financial advisors.
+
+Strategies to reduce high debt:
+- Use the avalanche method: pay off the highest interest debt first to minimize total interest paid
+- Use the snowball method: pay off the smallest debt first to build momentum and motivation
+- Avoid taking on new debt while paying off existing obligations
+- Consider debt consolidation to simplify payments and potentially lower interest rates
+- Contact lenders for hardship programs if you are struggling to make minimum payments
+
+A DTI below 0.20 is considered healthy. Between 0.20 and 0.35 is manageable. Above 0.40 requires immediate attention.
+
+
+SECTION 3: SAVINGS AND EMERGENCY FUND
+
+
+An emergency fund is money set aside to cover unexpected expenses such as medical bills, job loss, or urgent repairs. Financial advisors recommend maintaining an emergency fund of 3 to 6 months of essential living expenses.
+
+If your emergency fund is below one month of expenses:
+- Prioritize building it before making new investments
+- Set up automatic transfers to a separate savings account each payday
+- Start with a target of $1,000 as a starter emergency fund, then grow it over time
+
+A healthy savings rate is typically 20% or more of monthly income, following the 50/30/20 rule:
+- 50% for needs (rent, food, utilities, transportation)
+- 30% for wants (entertainment, dining out, subscriptions)
+- 20% for savings and debt repayment
+
+If your savings rate is below 10%, focus on reducing discretionary spending and tracking expenses daily.
+
+
+SECTION 4: INVESTMENT PRINCIPLES
+
+
+Investing allows your money to grow over time through compound interest and market returns. Common investment types include stocks, bonds, mutual funds, ETFs, and real estate.
+
+Basic investment principles:
+- Start investing early to maximize compound growth over time
+- Diversify across asset classes to reduce risk
+- Do not invest money you may need within the next 1-2 years
+- Keep investment fees low by choosing index funds or ETFs over actively managed funds
+- Reinvest dividends to accelerate compound growth
+
+Before investing, ensure:
+1. You have an emergency fund of at least 3 months of expenses
+2. You have paid off high-interest debt (above 7% annual rate)
+3. You have a stable income and positive cash flow
+
+For beginners, a simple portfolio of 80% broad market index funds and 20% bonds is a low-cost, low-maintenance starting point.
+
+
+SECTION 5: CREDIT SCORE IMPROVEMENT
+
+
+A credit score measures your creditworthiness based on payment history, credit utilization, length of credit history, credit mix, and new credit inquiries.
+
+Score ranges:
+- 800 - 850: Exceptional
+- 740 - 799: Very Good
+- 670 - 739: Good
+- 580 - 669: Fair
+- Below 580: Poor
+
+To improve a low credit score:
+- Pay all bills on time — payment history accounts for 35% of your score
+- Keep credit card utilization below 30% of your credit limit
+- Do not close old credit accounts, as length of history matters
+- Avoid applying for multiple new credit accounts in a short period
+- Check your credit report regularly for errors and dispute any inaccuracies
+
+
+SECTION 6: FINANCIAL PROFILES
+
+
+LOW-INCOME STRESSED PROFILE:
+Characteristics: Low monthly income (below $3,500), high debt-to-income ratio (above 0.50), low savings rate (below 10%), low emergency fund.
+Key risks: Inability to absorb unexpected expenses, high reliance on credit, negative cash flow.
+Priority actions:
+1. Build a starter emergency fund of at least $500-$1,000
+2. Stop adding new debt immediately
+3. Use the snowball method to eliminate smallest debts first
+4. Look for ways to increase income (side jobs, skill development)
+5. Cut all non-essential subscriptions and discretionary spending
+
+MIDDLE BALANCED PROFILE:
+Characteristics: Moderate income ($3,500-$6,000), manageable DTI (0.25-0.45), moderate savings rate (10-25%).
+Key risks: Vulnerable to income disruption, limited investment activity.
+Priority actions:
+1. Grow emergency fund to 3-6 months of essential expenses
+2. Increase savings rate toward 20% using the 50/30/20 rule
+3. Begin investing once emergency fund is secured
+4. Refinance high-interest debt if possible
+5. Set 1-year and 5-year financial goals
+
+HIGH-INCOME STABLE PROFILE:
+Characteristics: High monthly income (above $6,000), low DTI (below 0.25), high savings rate (above 25%), strong emergency fund.
+Key risks: Lifestyle inflation, underinvestment, poor tax planning.
+Priority actions:
+1. Maximize investment contributions to retirement and index funds
+2. Diversify investment portfolio across asset classes
+3. Review tax strategy to minimize liability
+4. Set long-term wealth-building goals (real estate, passive income)
+5. Automate savings and investments to avoid lifestyle inflation
+
+
+SECTION 7: FINANCIAL STRESS MANAGEMENT
+
+
+High financial stress is associated with poor decision-making, health issues, and relationship problems. Managing financial stress requires both practical and psychological strategies.
+
+Practical steps to reduce financial stress:
+- Write down all debts, income sources, and expenses to get a clear picture
+- Break large financial problems into small, manageable weekly actions
+- Celebrate small wins such as paying off one debt or reaching a savings milestone
+- Avoid comparing your financial situation to others
+
+Signs of high financial stress:
+- Avoiding opening bills or bank statements
+- Frequent arguments about money
+- Difficulty sleeping due to financial worries
+- Using credit cards to pay for basic necessities
+
+If financial stress is severe, consider speaking with a non-profit credit counseling agency for free or low-cost financial guidance.
